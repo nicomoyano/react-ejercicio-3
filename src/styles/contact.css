@@ -1,0 +1,22 @@
+.contact {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  gap: 2rem;
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  gap: 1rem;
+  width: 100%;
+}
+
+.info i {
+  font-size: 0.7rem;
+}
+
+.buttons {
+  display: flex;
+}
